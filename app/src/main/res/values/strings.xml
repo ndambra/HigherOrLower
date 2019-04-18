@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+    <string name="promptTextView">I\'m thinking of a number between 1 and 100</string>
+    <string name="questionTextView">Can you guess it?</string>
+    <string name="enter_number">Enter number</string>
+    <string name="guess">Guess!</string>
+</resources>
